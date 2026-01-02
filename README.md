@@ -14,7 +14,3 @@ A smart restaurant management system that uses **Google Gemini AI** to take orde
 - **Database:** SQLite
 - **Network:** Ngrok & Twilio
 
-## 📦 How to Run
-1. Download the latest release.
-2. Click `Start_App.bat`.
-3. Open WhatsApp and say "Hi".

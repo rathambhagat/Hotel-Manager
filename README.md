@@ -1,6 +1,6 @@
-# 🏨 Hotel AI Manager (AutoHost)
+# 🏨 Hotel AI Manager (CONCIERGE)
 
-A smart restaurant management system that uses **Google Gemini AI** to take orders via WhatsApp and manages them on a live Dashboard.
+A smart restaurant management system that uses LLM MODELS(AI) to take orders via WhatsApp and manages them on a live Dashboard.
 
 ## 🚀 Features
 - **AI Waiter:** Chat with a bot on WhatsApp to order food naturally.
